@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">OrderFoodApp</string>
+    <string name="slogan">Every Where</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="qoutes">Going to a restaurant is one of my keenest pleasures. Meeting someplace with old and new friends, ordering wine, eating food, surrounded by strangers,
+                            I think is the core of what it means to live a civilised life.</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="forgot_pwd"><u>Forgot Password ?</u></string>
+
+    <string name="facebook_app_id">559460901106300</string>
+
+    <string name="account_kit_client_token">3d5c68691feffb7c5768ac7b040586cd</string>
+
+    <string name="facebook_login_procotol_name">fb559460901106300</string>
+    <string name="title_activity_demo_maps">Map</string>
+    <string name="title_activity_tracking_order">Map</string>
+</resources>
